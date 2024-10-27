@@ -1,0 +1,14 @@
+/home/santiago/Downloads/c#/tpIntegrador/bin/Debug/net8.0/tpIntegrador
+/home/santiago/Downloads/c#/tpIntegrador/bin/Debug/net8.0/tpIntegrador.deps.json
+/home/santiago/Downloads/c#/tpIntegrador/bin/Debug/net8.0/tpIntegrador.runtimeconfig.json
+/home/santiago/Downloads/c#/tpIntegrador/bin/Debug/net8.0/tpIntegrador.dll
+/home/santiago/Downloads/c#/tpIntegrador/bin/Debug/net8.0/tpIntegrador.pdb
+/home/santiago/Downloads/c#/tpIntegrador/obj/Debug/net8.0/tpIntegrador.GeneratedMSBuildEditorConfig.editorconfig
+/home/santiago/Downloads/c#/tpIntegrador/obj/Debug/net8.0/tpIntegrador.AssemblyInfoInputs.cache
+/home/santiago/Downloads/c#/tpIntegrador/obj/Debug/net8.0/tpIntegrador.AssemblyInfo.cs
+/home/santiago/Downloads/c#/tpIntegrador/obj/Debug/net8.0/tpIntegrador.csproj.CoreCompileInputs.cache
+/home/santiago/Downloads/c#/tpIntegrador/obj/Debug/net8.0/tpIntegrador.dll
+/home/santiago/Downloads/c#/tpIntegrador/obj/Debug/net8.0/refint/tpIntegrador.dll
+/home/santiago/Downloads/c#/tpIntegrador/obj/Debug/net8.0/tpIntegrador.pdb
+/home/santiago/Downloads/c#/tpIntegrador/obj/Debug/net8.0/tpIntegrador.genruntimeconfig.cache
+/home/santiago/Downloads/c#/tpIntegrador/obj/Debug/net8.0/ref/tpIntegrador.dll

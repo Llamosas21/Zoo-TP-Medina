@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "tpIntegrador/1.0.0": {
+        "runtime": {
+          "tpIntegrador.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tpIntegrador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
