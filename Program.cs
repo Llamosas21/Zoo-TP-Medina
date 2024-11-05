@@ -1,15 +1,12 @@
 ﻿using System;
-using System.Reflection;
-using System.Runtime.InteropServices.Marshalling;
-
+using System.Collections.Generic; 
 namespace Zoologico
 {
     class Program
     {
-        public static void Main(string[] args)
-        {   
-            Leon simba = new Leon();
-            simba.EmitirSonido();
+        public static void Main(string[] args) 
+        {
+            Menu.consolaInteractiva();
         }
     }
 }
