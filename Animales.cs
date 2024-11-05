@@ -132,6 +132,7 @@ namespace Zoologico
     }
 
 
+//<---------------------- CLASE ZONA ---------------------- >
     
     public class Zona
     {
@@ -154,6 +155,10 @@ namespace Zoologico
         public List<Animal> ObtenerLista(){
             return this.animales;
         }
+        public string ObtenerNombreZona()
+        {
+            return this.nombreZona;
+        }
         public void MostrarAnimales()
         {
           Console.WriteLine($"Zona: {nombreZona}");
@@ -161,18 +166,25 @@ namespace Zoologico
                 {
                   Console.WriteLine(animal + " " + animal.Mostrarnombre());
               }
-            
+        }
+        public void ImprimirNombreZonaEnColor(ConsoleColor color)
+        {
+        Console.ForegroundColor = color;
+        Console.WriteLine($"Zona: {nombreZona}");
+        Console.ResetColor();
         }
         public void MostrarInformacionAnimal()
         {
-            Console.WriteLine($"Zona: {nombreZona}");
+            ImprimirNombreZonaEnColor(ConsoleColor.DarkYellow);
+            Console.WriteLine();
             foreach(Animal animal in animales)
                 {
                   Console.WriteLine("Nombre: " + animal.Mostrarnombre());
                   Console.WriteLine("Marca: " + animal.MostrarMarca());
                   Console.WriteLine("Edad: " + animal.Mostraredad());
                   Console.WriteLine("Género: " + animal.Mostrargenero());
+                  Console.WriteLine();
+                }
         }
     }
-}
 }

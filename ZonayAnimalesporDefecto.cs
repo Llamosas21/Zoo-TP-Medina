@@ -5,10 +5,8 @@ namespace Zoologico
 {
     public static class ZonasAnimalesDefecto
     {
-        // Lista para almacenar todas las zonas
         public static List<Zona> zonas = new List<Zona>();
 
-        // Constructor estático
         static ZonasAnimalesDefecto()
         {
             // Inicialización de zonas
@@ -37,7 +35,6 @@ namespace Zoologico
             foreach (var zona in zonas)
             {
                 zona.MostrarInformacionAnimal();  
-                Console.WriteLine("\n");
             }
         }
     }
